@@ -1,0 +1,45 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Darkrealm"
+      },
+      {
+        "value": "CUSTOM:Lightbiome"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:DarkenedMatter"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "DENY",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.NETHERITE_BLOCK"
+    },
+    "portalParticles": {
+      "value": "DRIPPING_OBSIDIAN_TEAR"
+    },
+    "portalLuminance": 5,
+    "portalSound": {
+      "value": "CUSTOM:insectsdarkrealm"
+    },
+    "igniterName": "Darkened and Steel",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "darkenedsteel",
+    "portalTexture": "darkportal",
+    "enablePortal": true
+  }
+}

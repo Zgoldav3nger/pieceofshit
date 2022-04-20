@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "darkmusic",
+    "name": "Dark Matter Ambientloop",
+    "description": "Where am I..? - Crystalax",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:darkrealmtheme"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

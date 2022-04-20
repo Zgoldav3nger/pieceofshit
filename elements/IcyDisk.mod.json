@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "icydisk",
+    "name": "Icy Disk",
+    "description": "Cold...but I can't get cozy in this biome...-Crystalax",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:icedisk"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

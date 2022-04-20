@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "materials",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RawCitrine"
+      },
+      {
+        "value": "CUSTOM:RawCitrine"
+      },
+      {
+        "value": "CUSTOM:RawCitrine"
+      },
+      {
+        "value": "CUSTOM:RawCitrine"
+      },
+      {
+        "value": "CUSTOM:OroshiEssence"
+      },
+      {
+        "value": "CUSTOM:RawCitrine"
+      },
+      {
+        "value": "CUSTOM:RawCitrine"
+      },
+      {
+        "value": "CUSTOM:RawCitrine"
+      },
+      {
+        "value": "CUSTOM:RawCitrine"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CompactedCitrine"
+    },
+    "name": "compact_citrine",
+    "namespace": "mod"
+  }
+}

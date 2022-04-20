@@ -1,0 +1,38 @@
+{
+  "darkrealmtheme": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "el_rey_tacho:brokencyber",
+        "stream": true
+      }
+    ]
+  },
+  "insectsdarkrealm": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "el_rey_tacho:splc-3946_fx_loop_birds_morning_chirping_forest",
+        "stream": false
+      }
+    ]
+  },
+  "iceydark": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "el_rey_tacho:winternight2",
+        "stream": false
+      }
+    ]
+  },
+  "icedisk": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "el_rey_tacho:winternight",
+        "stream": false
+      }
+    ]
+  }
+}

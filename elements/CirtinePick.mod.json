@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "tools",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CompactedCitrine"
+      },
+      {
+        "value": "CUSTOM:CompactedCitrine"
+      },
+      {
+        "value": "CUSTOM:CompactedCitrine"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkStick"
+      },
+      {
+        "value": "CUSTOM:CompactedCitrine"
+      },
+      {
+        "value": "CUSTOM:DarkStick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CompactedCitrine"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CitrinePiackaxe"
+    },
+    "name": "cirtine_pick",
+    "namespace": "mod"
+  }
+}

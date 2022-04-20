@@ -1,0 +1,132 @@
+{
+  "_fv": 24,
+  "_type": "biome",
+  "definition": {
+    "name": "Darkrealm",
+    "groundBlock": {
+      "value": "CUSTOM:DarkMatter"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Darksoil"
+    },
+    "airColor": {
+      "value": -14022877,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -12776395,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -13041361,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -13957852,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -13430739,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": "ambient.basalt_deltas.loop"
+    },
+    "additionsSound": {
+      "value": "ambient.nether_wastes.additions"
+    },
+    "music": {
+      "value": "CUSTOM:darkrealmtheme"
+    },
+    "moodSound": {
+      "value": "ambient.cave"
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "NETHER",
+    "parent": {
+      "value": "No parent"
+    },
+    "rainingPossibility": 0.7000000000000001,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "biomeType": "WARM",
+    "spawnBiome": false,
+    "biomeWeight": 10,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 0,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 6,
+    "treeStem": {
+      "value": "Blocks.AIR"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NETHER",
+    "defaultFeatures": [
+      "Caves",
+      "Ores"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityIllusionIllager"
+        },
+        "minGroup": 15,
+        "maxGroup": 30,
+        "weight": 60,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityWitherSkeleton"
+        },
+        "minGroup": 15,
+        "maxGroup": 30,
+        "weight": 60,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

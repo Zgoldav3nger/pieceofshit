@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "tools",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:OroshiEssence"
+      },
+      {
+        "value": "CUSTOM:OroshiEssence"
+      },
+      {
+        "value": "CUSTOM:OroshiEssence"
+      },
+      {
+        "value": "CUSTOM:OroshiEssence"
+      },
+      {
+        "value": "CUSTOM:DarkStick"
+      },
+      {
+        "value": "CUSTOM:OroshiEssence"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkStick"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OroshiPickaxe"
+    },
+    "name": "oroshipickaxerecipe",
+    "namespace": "mod"
+  }
+}
