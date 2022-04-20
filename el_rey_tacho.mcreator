@@ -1,0 +1,467 @@
+{
+  "mod_elements": [
+    {
+      "name": "DarkMatter",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_matter"
+    },
+    {
+      "name": "DarkMatterWood",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_matter_wood"
+    },
+    {
+      "name": "Darksoil",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darksoil"
+    },
+    {
+      "name": "DarkMatterAmbientloop",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_matter_ambientloop"
+    },
+    {
+      "name": "Darkrealm",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkrealm"
+    },
+    {
+      "name": "DarkMatterDimension",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_matter_dimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "DarkenedMatter",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkened_matter"
+    },
+    {
+      "name": "DarkSapling",
+      "type": "plant",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sapling"
+    },
+    {
+      "name": "DarkenedLeaves",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkened_leaves"
+    },
+    {
+      "name": "DarkSaplingAdditionalPlacinggrowthCondition",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sapling_additional_placinggrowth_condition",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DarkenedOak",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkened_oak"
+    },
+    {
+      "name": "Darkoakmatter",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkoakmatter"
+    },
+    {
+      "name": "DarkStick",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_stick"
+    },
+    {
+      "name": "Darkenedstick",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkenedstick"
+    },
+    {
+      "name": "AbyssalWoodenPickaxe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abyssal_wooden_pickaxe"
+    },
+    {
+      "name": "Abyssalpickaxewood",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abyssalpickaxewood"
+    },
+    {
+      "name": "DarkCabin",
+      "type": "structure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_cabin"
+    },
+    {
+      "name": "OroshiOre",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oroshi_ore"
+    },
+    {
+      "name": "OroshiEssence",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oroshi_essence"
+    },
+    {
+      "name": "OroshiIngot",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oroshi_ingot"
+    },
+    {
+      "name": "OroshiPickaxe",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oroshi_pickaxe"
+    },
+    {
+      "name": "Oroshipickaxerecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oroshipickaxerecipe"
+    },
+    {
+      "name": "Darkmattertree1",
+      "type": "structure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkmattertree_1"
+    },
+    {
+      "name": "Darkcabinnotrare",
+      "type": "structure",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkcabinnotrare"
+    },
+    {
+      "name": "Darkcabinnotrare2",
+      "type": "structure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkcabinnotrare_2"
+    },
+    {
+      "name": "Darkmattercabin2witherskeletons",
+      "type": "structure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkmattercabin_2witherskeletons"
+    },
+    {
+      "name": "Netherbreakin",
+      "type": "structure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherbreakin"
+    },
+    {
+      "name": "RawCitrine",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_citrine"
+    },
+    {
+      "name": "CitrineOre",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrine_ore"
+    },
+    {
+      "name": "Lightbiome",
+      "type": "biome",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightbiome"
+    },
+    {
+      "name": "IcyDisk",
+      "type": "musicdisc",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icy_disk"
+    },
+    {
+      "name": "CompactedCitrine",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compacted_citrine"
+    },
+    {
+      "name": "CompactCitrine",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compact_citrine"
+    },
+    {
+      "name": "CitrineSword",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrine_sword"
+    },
+    {
+      "name": "Citrineswordrecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrineswordrecipe"
+    },
+    {
+      "name": "MatteredSnowballRightClickedInAir",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mattered_snowball_right_clicked_in_air",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "IcyMatter",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icy_matter"
+    },
+    {
+      "name": "CitrinePiackaxe",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citrine_piackaxe"
+    },
+    {
+      "name": "IcyMatteredSnowball",
+      "type": "food",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icy_mattered_snowball"
+    },
+    {
+      "name": "CirtinePick",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cirtine_pick"
+    },
+    {
+      "name": "DarkenedTable",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkened_table"
+    },
+    {
+      "name": "Darkcraftingbench",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "darkcraftingbench"
+    },
+    {
+      "name": "Craftingbenchgui",
+      "type": "gui",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftingbenchgui"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "darkrealmtheme",
+      "files": [
+        "brokencyber"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "insectsdarkrealm",
+      "files": [
+        "splc-3946_fx_loop_birds_morning_chirping_forest"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "iceydark",
+      "files": [
+        "winternight2"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "icedisk",
+      "files": [
+        "winternight"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "block.el_rey_tacho.darkened_matter": "Darkened Matter",
+      "block.el_rey_tacho.darkened_oak": "Abyssal Planks",
+      "item.el_rey_tacho.icy_disk": "Icy Disk",
+      "item.el_rey_tacho.citrine_piackaxe": "Citrine Piackaxe",
+      "block.el_rey_tacho.icy_matter": "Icy Matter",
+      "biome.el_rey_tacho.lightbiome": "Icey Darkness",
+      "block.el_rey_tacho.darkened_table": "Darkened Table",
+      "block.el_rey_tacho.oroshi_ore": "Oroshi Ore",
+      "item.el_rey_tacho.dark_stick": "Abyssal Stick",
+      "item.el_rey_tacho.oroshi_essence": "Oroshi Essence",
+      "item.el_rey_tacho.raw_citrine": "Raw Citrine",
+      "block.el_rey_tacho.citrine_ore": "Citrine Ore",
+      "item.el_rey_tacho.icy_disk.desc": "Cold...but I can\u0027t get cozy in this biome...-Crystalax",
+      "item.el_rey_tacho.dark_matter_ambientloop.desc": "Where am I..? - Crystalax",
+      "item.el_rey_tacho.icy_mattered_snowball": "Mattered Snowball",
+      "item.el_rey_tacho.dark_matter_ambientloop": "Dark Matter Ambientloop",
+      "block.el_rey_tacho.darksoil": "DarkSoil",
+      "block.el_rey_tacho.darkened_leaves": "Darkened Leaves",
+      "subtitles.iceydark": "",
+      "item.el_rey_tacho.dark_matter_dimension": "Darkened and Steel",
+      "block.el_rey_tacho.dark_matter": "Dark Matter",
+      "item.el_rey_tacho.oroshi_pickaxe": "Oroshi Pickaxe",
+      "subtitles.icedisk": "",
+      "subtitles.darkrealmtheme": "",
+      "block.el_rey_tacho.dark_matter_wood": "Dark Matter Wood",
+      "block.el_rey_tacho.compacted_citrine": "Compacted Citrine",
+      "biome.el_rey_tacho.darkrealm": "Darkrealm",
+      "item.el_rey_tacho.abyssal_wooden_pickaxe": "Abyssal Wooden Pickaxe",
+      "subtitles.insectsdarkrealm": "",
+      "block.el_rey_tacho.dark_sapling": "Dark Sapling",
+      "item.el_rey_tacho.citrine_sword": "Citrine Sword"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "el_rey_tacho",
+    "modName": "El Rey Tacho",
+    "version": "1.0.0",
+    "author": "zgold, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.elreytacho",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}
